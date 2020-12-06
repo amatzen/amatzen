@@ -6,6 +6,7 @@ I'm currently studying Software Engineering at [SDU](https://www.sdu.dk/en) and 
 - [GitHub](https://www.github.com/amatzen)
 - [GitLab](https://www.gitlab.com/matzen)
 - [Bitbucket](https://bitbucket.org/alexmatzen)
+- [Gitea.com](https://gitea.com/matzen)
 
 ### Get in Touch
 - [Website](https://www.alexander.dk)
