@@ -1,6 +1,6 @@
 ### Hey! I'm Alexander 👋
 
-I'm currently studying Software Engineering at [SDU](https://www.sdu.dk/en) and working part time at [Servicepos](https://servicepos.com/en).
+I'm currently studying Software Engineering at [SDU](https://www.sdu.dk/en) and working part time at [Servicepos](https://servicepos.com).
 
 ### Alexander on Git
 - [GitHub](https://www.github.com/amatzen)
